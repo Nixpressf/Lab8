@@ -1,0 +1,26 @@
+<html lang="ua">
+    <head>
+        <title> де мій кіт</title>
+        <link rel="stylesheet" href="style.css">
+      </head>
+      <body>
+        <header>
+          <nav>
+           На головну
+          </nav>
+        </header>
+        <main>
+          <article>
+            День перший. Я забув погодувати кота
+    
+            Погляд пав на котика що сидить біля тарілки
+          </article>
+          <aside>
+            Тут можлио булаб ваша реклама
+          </aside>
+        </main>
+        <footer>
+          Підвал сайту
+        </footer>
+      </body>
+</html>
